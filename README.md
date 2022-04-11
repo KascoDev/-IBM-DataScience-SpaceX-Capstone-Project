@@ -1,27 +1,27 @@
 In this IBM Data Science Course capstone project, I assume the role of a Data Scientist working for a new Space rocket company called SpaceY and would like to compete with SpaceX founded by Allon Musk. My job is to determine the cost of each launch and to predict if a launch programm will be successful or not. I have to do this by gathering information about Space X and creating an interactive dashboards for my team. I also determine if SpaceX will reuse it's booster rockets after each launch. I will use Data analysis and Data Science methodologies as well as training a machine learning model using publicly available information to predict if SpaceX will reuse the first stage rocket booster.
 
 
-## 1️⃣  Data Collection and Wrangling<a name = "week1"></a>
+##  Data Collection and Wrangling<a name = "week1"></a>
 
 - [Collecting the Data via API](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/Week%201:%20(A)Collecting%20the%20Data-%20Collection%20API%20Lab.ipynb)
 - [Collecting the Data via Web Scraping](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/Week%201:%20(C)%20Data%20Collection%20with%20Web%20Scraping%20lab.ipynb)
 - [Data Wrangling](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/Week%201:%20(B)%20Data%20Wrangling%20-%20EDA%20lab.ipynb)
 
-## 2️⃣  Exploratory Data Analysis (EDA)<a name = "week2"></a>
+##  Exploratory Data Analysis (EDA)<a name = "week2"></a>
 
 - [Exploratory Analysis Using SQL](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/Week%202:%20(A)%20Exploratory%20Data%20Analysis%20Using%20SQL.ipynb)
 - [Exploratory Analysis Using Pandas and Matplotlib](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/Week%202:%20(B)%20EDA%20with%20Visualization%20lab.ipynb)
 
-## 3️⃣  Interactive Visual Analytics and Dashboard<a name = "week3"></a>
+##  Interactive Visual Analytics and Dashboard<a name = "week3"></a>
 
 - [Interactive Visual Analytics with Folium](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/Week%203:(A)Interactive%20Visual%20Analytics%20with%20Folium.ipynb)
 - [Plotly](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/Week%203%20-%20Plotly/plotly.py)
 
-## 4️⃣ Predictive Analysis (Classification)<a name = "week4"></a>
+##  Predictive Analysis (Classification)<a name = "week4"></a>
 
 - [Machine Learning Prediction](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/Week%204:%20(A)%20Machine%20Learning%20Prediction%20Lab.ipynb)
 
-## 5️⃣  Present Your Data-Driven Insights <a name = "week5"></a>
+##  Present Your Data-Driven Insights <a name = "week5"></a>
 
 - [Present Your Data-Driven Insights with Presentation](https://github.com/debdattasarkar/SpaceX-Data-Science-Project/blob/master/Final%20Presentation/Data-Driven%20Insights.pdf)
 
